@@ -21,3 +21,8 @@ body {
 .titulo {
     color: red;
 }
+
+.image:hover{
+    transform: scale(1.2);
+    margin-left: 75px ;
+}
